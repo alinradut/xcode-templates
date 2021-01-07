@@ -50,6 +50,22 @@
 			<key>NotPersisted</key>
 			<string>true</string>
 		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>withViewModel</string>
+			<key>Required</key>
+			<string>true</string>
+			<key>Name</key>
+			<string>Add view model file</string>
+			<key>Description</key>
+			<string>Whether to create an associated view model file</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<string>false</string>
+			<key>NotPersisted</key>
+			<string>true</string>
+		</dict>
 	</array>
 </dict>
 </plist>

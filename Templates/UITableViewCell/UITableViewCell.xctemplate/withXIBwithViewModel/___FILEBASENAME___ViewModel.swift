@@ -1,0 +1,1 @@
+../withViewModel/___FILEBASENAME___ViewModel.swift
