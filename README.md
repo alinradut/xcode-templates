@@ -1,2 +1,2 @@
 # xcode-templates
-xctemplate files for UITableViewCell, UICollectionViewCel and more
+xctemplate files for UITableViewCell, UICollectionViewCell and more
